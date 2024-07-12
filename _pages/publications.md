@@ -5,9 +5,9 @@ permalink: /
 author_profile: true
 ---
 
-[Google Scholar](https://scholar.google.com/citations?user=pm9i5OwAAAAJ).
+[Google Scholar](https://scholar.google.com/citations?user=pm9i5OwAAAAJ)
 
-[ResearchGate](https://www.researchgate.net/profile/Xin-Qin-10).
+[ResearchGate](https://www.researchgate.net/profile/Xin-Qin-10)
 
 Journal Papers:
 -----

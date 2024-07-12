@@ -2,7 +2,7 @@
 layout: archive
 title: "Talks"
 permalink: /Talks/
-author_profile: false
+author_profile: true
 ---
 
 

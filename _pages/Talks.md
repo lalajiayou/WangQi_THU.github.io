@@ -1,25 +1,24 @@
 ---
 layout: archive
-title: "Codes and Files"
-permalink: /codes/
+title: "Talks"
+permalink: /Talks/
 author_profile: true
 ---
 
-[#1] Data for Combined Electric and Heat System Testbeds
--------
-Comments: The following files are testbed data of the paper entitled [Combined Electric and Heat System Testbeds for Power Flow Analysis and Economic Dispatch](https://ieeexplore.ieee.org/abstract/document/9265441).
+•	Academic Exchange at Nanyang Technological University                                                                                2023
+A Nested Decomposition Method for the AC Optimal Power Flow of Hierarchical Electrical Power Grids
 
-* Testbed1: [Industrial Park case](https://docs.google.com/spreadsheets/d/1Zvn3dvXOcQP_zVZ_s0LNUmSunfGlwfBB/edit?usp=sharing&ouid=108279062196019636273&rtpof=true&sd=true).
-* Testbed2: [City case](https://docs.google.com/spreadsheets/d/1dQuWef6a_tvywI77WXcTAgsqmDyFGD3H/edit?usp=sharing&ouid=108279062196019636273&rtpof=true&sd=true).
-* Testbed3: [Modified Barry Island case](https://docs.google.com/spreadsheets/d/1u0pp2BUgdesQ5lEBuuPDIRMhxS9INvC6/edit?usp=sharing&ouid=108279062196019636273&rtpof=true&sd=true).
+•	Ph.D. Dissertation Challenge of IEEE I&CPS Asia 2023                                                                                 2023
+Hierarchical power grids coordinated dispatch: decomposition methods for non-convex, spatio-temporal coupling problems with imperfect communication
 
-[#2] Code and Data for The Role of Electricity Market Design for Energy Storage in Cost-Efficient Decarbonization
--------
-Comments: The following files are testbed data of the paper entitled _The Role of Electricity Market Design for Energy Storage in Cost-Efficient Decarbonization_.
+•	Tsinghua-IET Electrical Engineering Academic Forum                                                                                   2023
+A Spatio-temporal Decomposition Method for the Coordinated Economic Dispatch of Integrated Transmission and Distribution Grids
 
+•	Tsinghua-IET Electrical Engineering Academic Forum                                                                                   2022
+Asynchronous Decomposition Method for the Coordinated Operation of Virtual Power Plants
 
-* [Program code](https://github.com/Huskyseen/Storage_Market/tree/main/program_code): This code is used for simulating storage-market interactions.
-* [Plot code](https://github.com/Huskyseen/Storage_Market/tree/main/plot_code): This code is used for data analysis. It gives all figures shown in the main text of the paper.
+•	IEEE PES General Meeting                                                                                                             2020
+Asynchronous Distributed Optimal Load Scheduling Algorithm
 
 
 

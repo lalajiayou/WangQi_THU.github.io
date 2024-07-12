@@ -29,7 +29,7 @@ Selected Publications
 2022/03: Our paper on _**Asynchronous Distributed Optimization**_ entitled "[Asynchronous Decomposition Method for the Coordinated Operation of Virtual Power Plants](https://ieeexplore.ieee.org/document/9743211)" has been accepted by _**IEEE Transactions on Power Systems**_.
 
 
-Awards
+Selected Awards
 ======
 2024/07: Honored to receive the _**Postdoc Matching Fund Scheme**_ at the Hong Kong Polytechnic University.
 

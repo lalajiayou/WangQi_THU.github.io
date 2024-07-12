@@ -7,7 +7,7 @@ author_profile: true
 
 PRESENTATIONS:
 -----
-|---
+|-|-
 | • **Academic Exchange at Nanyang Technological University**                                  |                                                 2023 
 | A Nested Decomposition Method for the AC Optimal Power Flow of Hierarchical Electrical Power Grids 
 | • **Ph.D. Dissertation Challenge of IEEE I&CPS Asia 2023**                                   |                                                 2023 

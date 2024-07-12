@@ -16,7 +16,7 @@ Download my [CV](https://wangqi_thu.github.io/files/CV_Qi_Wang_Tsinghua-20240712
 
 Selected Publications
 ======
-2024/06: Our paper on _**Relaxation for complementarity constraints of energy storages**_ entitled "[An exact relaxation method for complementarity constraints of energy storages in power grid optimization problems](https://www.sciencedirect.com/science/article/abs/pii/S0306261924009759)" has been accepted by _**Applied Energy**_.
+2024/10: Our paper on _**Relaxation for complementarity constraints of energy storages**_ entitled "[An exact relaxation method for complementarity constraints of energy storages in power grid optimization problems](https://www.sciencedirect.com/science/article/abs/pii/S0306261924009759)" has been accepted by _**Applied Energy**_.
 
 2024/05: Our paper on _**Distributed Energy Management**_ entitled "[Distributed Energy Resource Management System with improved convergence](https://www.sciencedirect.com/science/article/abs/pii/S0306261924009498)" has been accepted by _**Applied Energy**_.
 

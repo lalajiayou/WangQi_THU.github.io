@@ -16,7 +16,7 @@ Download my [CV](https://lalajiayou.github.io/WangQi_THU.github.io/files/CV_Qi_W
 
 Selected Publications
 ======
-2024/10: Our paper on _**Relaxation for complementarity constraints of energy storages**_ entitled "[An exact relaxation method for complementarity constraints of energy storages in power grid optimization problems](https://www.sciencedirect.com/science/article/abs/pii/S0306261924009759)" has been accepted by _**Applied Energy**_.
+2024/06: Our paper on _**Relaxation for complementarity constraints of energy storages**_ entitled "[An exact relaxation method for complementarity constraints of energy storages in power grid optimization problems](https://www.sciencedirect.com/science/article/abs/pii/S0306261924009759)" has been accepted by _**Applied Energy**_.
 
 2024/05: Our paper on _**Distributed Energy Management**_ entitled "[Distributed Energy Resource Management System with improved convergence](https://www.sciencedirect.com/science/article/abs/pii/S0306261924009498)" has been accepted by _**Applied Energy**_.
 
@@ -33,7 +33,7 @@ Awards
 ======
 2024/07: Honored to receive the _**Postdoc Matching Fund Scheme**_ at the Hong Kong Polytechnic University.
 
-2024/07: Honored to receive the _**Winners of lEEE Region 10 SAC Student Research Paper contest**_ for our paper "[An exact relaxation method for complementarity constraints of energy storages in power grid optimization problems](https://sac.ieeer10.org/srp-contest/)".
+2024/07: Honored to receive the [_**Winners of lEEE Region 10 SAC Student Research Paper contest**_](https://sac.ieeer10.org/srp-contest/).
 
 2023/07: Nominated as a finalist (Top 1%) in [the Ph.D. Dissertation Challenge of IEEE I&CPS Asia 2023](https://mp.weixin.qq.com/s/mvwTmfKwyclKz9_x-txZdg).
 

@@ -35,7 +35,7 @@ Awards
 
 2024/07: Honored to receive the [_**Winners of lEEE Region 10 SAC Student Research Paper contest**_](https://sac.ieeer10.org/srp-contest/).
 
-2023/07: Nominated as a finalist (Top 1%) in [_**the Ph.D. Dissertation Challenge of IEEE I&CPS Asia 2023**_](https://mp.weixin.qq.com/s/mvwTmfKwyclKz9_x-txZdg).
+2023/07: Nominated as a finalist (Top 1%) in the [_**Ph.D. Dissertation Challenge of IEEE I&CPS Asia 2023**_](https://mp.weixin.qq.com/s/mvwTmfKwyclKz9_x-txZdg).
 
 
 <!-- <a href="https://info.flagcounter.com/qrVf"><img src="https://s01.flagcounter.com/count2/qrVf/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a> -->

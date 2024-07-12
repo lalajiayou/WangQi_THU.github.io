@@ -12,6 +12,7 @@ I am currently a Postdoc at Department of Applied Mathematics, _**The Hong Kong 
 My research is primarily focused on _**efficient distributed optimization algorithms**_ and _**their applications in coordinated optimization for hierarchical electrical power grids with integration of large-scale renewable generation**_. In this regard, I have conducted multiple studies to address the large-scale, non-convex, mixed-integer, spatio-temporal coupling optimization problems considering imperfect communication. These achievements also led to my nomination as a finalist (Top 1%) in the [Ph.D. Dissertation Challenge of IEEE I&CPS Asia 2023](https://mp.weixin.qq.com/s/mvwTmfKwyclKz9_x-txZdg).
 
 Download my [CV](https://lalajiayou.github.io/WangQi_THU.github.io/files/CV_Qi_Wang_Tsinghua-20240712-v1.pdf).
+**Email**: wqthu@foxmail.com
 
 Selected Publications
 ======

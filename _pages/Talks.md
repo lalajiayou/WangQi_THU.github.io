@@ -2,7 +2,7 @@
 layout: archive
 title: "Talks"
 permalink: /talks/
-author_profile: false
+author_profile: ture
 ---
 
 •	Academic Exchange at Nanyang Technological University                                                                                2023

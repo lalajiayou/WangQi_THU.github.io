@@ -18,9 +18,7 @@ PRESENTATIONS:
 | Asynchronous Decomposition Method for the Coordinated Operation of Virtual Power Plants 
 | •	**IEEE PES General Meeting**                                                               |                                                 2020 
 | Asynchronous Distributed Optimal Load Scheduling Algorithm 
-|---
 
 POSTERS:
 -----
-|---
-|---
+

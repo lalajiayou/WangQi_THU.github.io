@@ -12,7 +12,7 @@ I am currently a Postdoc at Department of Applied Mathematics, _**The Hong Kong 
 
 My research is primarily focused on _**efficient distributed optimization algorithms**_ and _**their applications in coordinated optimization for hierarchical electrical power grids with integration of large-scale renewable generation**_. In this regard, I have conducted multiple studies to address the large-scale, non-convex, mixed-integer, spatio-temporal coupling optimization problems considering imperfect communication. These achievements also led to my nomination as a finalist (Top 1%) in [the Ph.D. Dissertation Challenge of IEEE I&CPS Asia 2023](https://mp.weixin.qq.com/s/mvwTmfKwyclKz9_x-txZdg).
 
-Download my [CV](https://lalajiayou.github.io/WangQi_THU.github.io/files/CV_Qi_Wang_Tsinghua-20240711.pdf).
+Download my [CV](https://lalajiayou.github.io/WangQi_THU.github.io/files/CV_Qi_Wang_Tsinghua-20240712-v1.pdf).
 
 Selected Publications
 ======
@@ -35,7 +35,7 @@ Awards
 
 2024/07: Honored to receive the [_**Winners of lEEE Region 10 SAC Student Research Paper contest**_](https://sac.ieeer10.org/srp-contest/).
 
-2023/07: Nominated as a finalist (Top 1%) in [the Ph.D. Dissertation Challenge of IEEE I&CPS Asia 2023](https://mp.weixin.qq.com/s/mvwTmfKwyclKz9_x-txZdg).
+2023/07: Nominated as a finalist (Top 1%) in [_**the Ph.D. Dissertation Challenge of IEEE I&CPS Asia 2023**_](https://mp.weixin.qq.com/s/mvwTmfKwyclKz9_x-txZdg).
 
 
 <!-- <a href="https://info.flagcounter.com/qrVf"><img src="https://s01.flagcounter.com/count2/qrVf/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a> -->

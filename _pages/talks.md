@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Talks:"
+title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
@@ -21,6 +21,6 @@ author_profile: true
 | •	**IEEE PES General Meeting**                                                               |                                                 2020 
 | Asynchronous Distributed Optimal Load Scheduling Algorithm 
 
-POSTERS:
+POSTERS
 -----
 

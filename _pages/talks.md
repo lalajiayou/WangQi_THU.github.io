@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: "talks"
+title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
 
-PRESENTATIONS:
------
-|---|
+|-
 
 | • **Academic Exchange at Nanyang Technological University**                                  |                                                 2023 
 | A Nested Decomposition Method for the AC Optimal Power Flow of Hierarchical Electrical Power Grids 

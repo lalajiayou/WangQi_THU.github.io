@@ -13,7 +13,7 @@ My research is primarily focused on _**efficient distributed optimization algori
 
 Download my [CV](https://lalajiayou.github.io/WangQi_THU.github.io/files/CV_Qi_Wang_Tsinghua-20240712-v1.pdf).
 
-**Email**: wqthu@foxmail.com
+**Email**: wqthu[at]foxmail.com
 
 Selected Publications
 ======

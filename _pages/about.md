@@ -32,7 +32,7 @@ Selected Publications
 
 Selected Awards
 ======
-2024/10: Selected as a “Future Digileader” of Digital Futures(https://www.digitalfutures.kth.se/news/future-digileaders-24/), a cross-disciplinary research centre jointly established by _KTH Royal Institute of Technology_, RISE Research Institutes of Sweden and Stockholm University.
+2024/10: Selected as a [_**“Future Digileader” of Digital Futures**_](https://www.digitalfutures.kth.se/news/future-digileaders-24/), a cross-disciplinary research centre jointly established by _**KTH Royal Institute of Technology**_, RISE Research Institutes of Sweden and Stockholm University.
 
 2024/07: Honored to receive the [_**IEEE PCCC Student Research Showcase Best Oral Presentation Award**_](https://mp.weixin.qq.com/s/oxHfGfIXNffdm4HJXHVB6w?poc_token=HPFHp2ajGYpw-hqQCzdXEXkgd9K-8f-tKsRJxWcf).
 

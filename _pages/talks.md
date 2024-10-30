@@ -4,7 +4,11 @@ title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
+| • **Academic Exchange at Nanyang Technological University**                                  |                                                 2024 
+| Challenging Optimization Problems in Power Systems: An Introduction and Preliminary Attempts 
 
+| • **2024 IEEE PES general meeting**                                                          |                                                 2024 
+| A Nested Decomposition Method for the AC Optimal Power Flow of Hierarchical Electrical Power Grids 
 
 | • **Academic Exchange at Nanyang Technological University**                                  |                                                 2023 
 | A Nested Decomposition Method for the AC Optimal Power Flow of Hierarchical Electrical Power Grids 

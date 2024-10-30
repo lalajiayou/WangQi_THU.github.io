@@ -4,7 +4,7 @@ title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
-| • **Academic Exchange at Nanyang Technological University**                                  |                                                 2024 
+| • **The symposium on New Opportunities in Mathematical Optimization and Control Theory in the Fields of Terminals and Computing, co-hosted by Huawei and The Hong Kong Polytechnic University.**                                  |                                                 2024 
 | Challenging Optimization Problems in Power Systems: An Introduction and Preliminary Attempts 
 
 | • **2024 IEEE PES general meeting**                                                          |                                                 2024 

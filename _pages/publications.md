@@ -28,11 +28,15 @@ Journal Papers:
 
 Peer-Reviewed Conference Papers:
 -----
-[C5] _**Q. Wang**_, W. Wu, et al., "[Asynchronous Distributed Optimal Load Scheduling Algorithm](https://ieeexplore.ieee.org/document/9281471)," 2020 IEEE Power & Energy Society General Meeting (PESGM), 2020, pp. 1-5.
+[C7] _**Q. Wang**_, W. Wu, et al., "[Asynchronous Distributed Optimal Load Scheduling Algorithm](https://ieeexplore.ieee.org/document/9281471)," 2020 IEEE Power & Energy Society General Meeting (PESGM), 2020, pp. 1-5.
 
-[C4] _**Q. Wang**_, B. Li, et al., "[Coordinated Scheduling of Distribution Network and Virtual Power Plants Considering Controllable Thermal Loads and Distributed Photovoltaics](https://ieeexplore.ieee.org/document/10117078)," 2022 IEEE 6th Conference on Energy Internet and Energy System Integration (EI2), 2022, pp. 415-419.
+[C6] _**Q. Wang**_, B. Li, et al., "[Coordinated Scheduling of Distribution Network and Virtual Power Plants Considering Controllable Thermal Loads and Distributed Photovoltaics](https://ieeexplore.ieee.org/document/10117078)," 2022 IEEE 6th Conference on Energy Internet and Energy System Integration (EI2), 2022, pp. 415-419.
 
-[C3] _**Q. Wang**_, W. Wu, et al., "[Transmission and Distribution Networks Coordinated Volt/Var Control Method and Its Application in Jibei Grid](https://ieeexplore.ieee.org/document/9346778)," 2020 IEEE 4th Conference on Energy Internet and Energy System Integration (EI2), 2020, pp. 1331-1336.
+[C5] _**Q. Wang**_, W. Wu, et al., "[Transmission and Distribution Networks Coordinated Volt/Var Control Method and Its Application in Jibei Grid](https://ieeexplore.ieee.org/document/9346778)," 2020 IEEE 4th Conference on Energy Internet and Energy System Integration (EI2), 2020, pp. 1331-1336.
+
+[C4] Y. Zhang, Q. Guo, Y. Lin, P. Liu, Y. Sheng and _**Q. Wang**_, "Bifurcation of a Grid-Forming Converter Considering Current Limit and Load Dynamics," 2024 IEEE Power & Energy Society General Meeting (PESGM), Seattle, WA, USA, 2024, pp. 1-5.
+
+[C3] P. Liu, J. Wang, Q. Guo, C. Feng, Y. Zhang and _**Q. Wang**_, "A Cooperative Transmission Strategy with Relay-Assisted for Frequency Regulation Service in Virtual Power Plants," 2024 IEEE Power & Energy Society General Meeting (PESGM), Seattle, WA, USA, 2024, pp. 1-5.
 
 [C2] Z. Ruan, C. Lin, _**Q. Wang**_, et al., "[Risk-Minimizing Real-Time Dispatch for Power Systems with High Proportion Variable Renewable Generators Based on Conditional GMM]," IEEE 7th International Electrical and Energy Conference (CIEEC), Harbin, China, 2024.
 
